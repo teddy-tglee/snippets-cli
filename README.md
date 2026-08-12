@@ -1,0 +1,2 @@
+# snippets-cli
+cli project
